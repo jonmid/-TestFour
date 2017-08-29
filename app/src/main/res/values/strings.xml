@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Qiuz</string>
+    <string name="str_1">Mike Creative Minst</string>
+    <string name="str_2">UI / UX Designer at KREATIVE</string>
+    <string name="str_3">IOS Game / Making of Game Concept</string>
+    <string name="str_4">Game design, illustration, IOS, Fine arts, digital art</string>
+    <string name="str_5">24k</string>
+    <string name="str_6">73k</string>
+    <string name="str_7">345</string>
+    <string name="str_8">Crear cuenta</string>
+    <string name="str_9">Usuario</string>
+    <string name="str_10">Contraseña</string>
+    <string name="str_11">aceptar</string>
+    <string name="str_12">mostrar opciones</string>
+    <string name="str_13">Opcion 1</string>
+    <string name="str_14">Opcion 2</string>
+</resources>
